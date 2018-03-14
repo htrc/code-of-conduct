@@ -1,2 +1,6 @@
-# code-of-conduct
-This is a repository to provide a space to draft and allow for dialog in the creation of a code of conduct for the HTRC UnCamp and other public related events.
+# HTRC Code of Conduct Policy
+This is a repository to provide a space to draft and allow for dialog in the creation of a code of conduct for the HTRC UnCamp and other HTRC related public events. This code of conduct was built on the backs of many others including the following resources and existing policies:
+
+Code4Lib Anti-Harrasment Policy - https://github.com/code4lib/code-of-conduct
+The Ada Initiative: Anti-harassment work - https://adainitiative.org/continue-our-work/conference-policies/
+DLF Code of Conduct - https://www.diglib.org/about/code-of-conduct/
